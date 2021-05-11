@@ -1,0 +1,10 @@
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\bin\Debug\KonwerterCzasu.exe.config
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\bin\Debug\KonwerterCzasu.exe
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\bin\Debug\KonwerterCzasu.pdb
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\obj\Debug\KonwerterCzasu.csprojAssemblyReference.cache
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\obj\Debug\KonwerterCzasu.Form1.resources
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\obj\Debug\KonwerterCzasu.Properties.Resources.resources
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\obj\Debug\KonwerterCzasu.csproj.GenerateResource.cache
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\obj\Debug\KonwerterCzasu.csproj.CoreCompileInputs.cache
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\obj\Debug\KonwerterCzasu.exe
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\obj\Debug\KonwerterCzasu.pdb
