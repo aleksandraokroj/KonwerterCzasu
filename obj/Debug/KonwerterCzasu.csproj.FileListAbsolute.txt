@@ -8,3 +8,10 @@ C:\Users\Agnieszka\source\repos\KonwerterCzasu\obj\Debug\KonwerterCzasu.csproj.G
 C:\Users\Agnieszka\source\repos\KonwerterCzasu\obj\Debug\KonwerterCzasu.csproj.CoreCompileInputs.cache
 C:\Users\Agnieszka\source\repos\KonwerterCzasu\obj\Debug\KonwerterCzasu.exe
 C:\Users\Agnieszka\source\repos\KonwerterCzasu\obj\Debug\KonwerterCzasu.pdb
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\bin\Debug\nunit.framework.dll
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\bin\Debug\nunit.framework.xml
+C:\Users\Agnieszka\source\repos\KonwerterCzasu\obj\Debug\KonwerterCzasu.csproj.CopyComplete

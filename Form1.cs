@@ -26,6 +26,9 @@ namespace KonwerterCzasu
         {
 
         }
+
+        /// <param name="x"></param>
+
         public double SekundyNaSekundy(double x)
         {
             return x;
@@ -37,7 +40,6 @@ namespace KonwerterCzasu
         {
             return x * 60;
         }
-
  
         /// <param name="x"></param>
 
